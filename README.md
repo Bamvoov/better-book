@@ -2,16 +2,6 @@
 
 **Better Book** is a modern React application built for managing and exploring books. Powered by Vite for lightning-fast development and styled with Tailwind CSS for a sleek, responsive user interface.
 
-## 🚀 Features
-
-- **Fast Performance:** Built on top of Vite for instant server starts and hot module replacement (HMR).
-    
-- **Modern UI:** Styled with Tailwind CSS for a clean and responsive design.
-    
-- **Component-Based:** Modular React architecture.
-    
-- **Linting:** Pre-configured with ESLint to ensure code quality.
-    
 
 _(Note: Update this section with specific app features, e.g., "Track reading progress," "Search for books via API," "User reviews.")_
 
