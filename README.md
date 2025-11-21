@@ -86,6 +86,3 @@ Contributions are welcome! If you have suggestions for how to make this better, 
     
 5. Open a Pull Request
     
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more
